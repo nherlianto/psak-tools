@@ -1,0 +1,5 @@
+digraph "id.telkomsigma.psak:psak-tools:jar:1.0-SNAPSHOT" { 
+	"id.telkomsigma.psak:psak-tools:jar:1.0-SNAPSHOT" -> "junit:junit:jar:3.8.1:test" ; 
+	"id.telkomsigma.psak:psak-tools:jar:1.0-SNAPSHOT" -> "com.oracle:ojdbc:jar:6:system" ; 
+	"id.telkomsigma.psak:psak-tools:jar:1.0-SNAPSHOT" -> "org.mybatis:mybatis:jar:3.4.5:compile" ; 
+ } 
